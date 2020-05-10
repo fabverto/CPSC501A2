@@ -1,0 +1,122 @@
+======================================================
+Filename: script2.txt
+Running Test: ClassA
+Recursive: true
+==============================Starting Inspection==============================
+
+==============================Class Information==============================
+Class Name: ClassA
+==============================Superclasses==============================
+Superclass name: java.lang.Object ---> of Class: ClassA
+==============================Interfaces==============================
+Interface: interface java.io.Serializable
+Interface: interface java.lang.Runnable
+
+==============================Constructor Information==============================
+Constructor #1 Name: ClassA
+Modifiers: public
+
+Constructor #2 Name: ClassA
+Parameter #1 Name: int
+Modifiers: public
+
+
+==============================Methods==============================
+Method Name: run
+Modifier: public
+Return: void
+
+Method Name: toString
+Modifier: public
+Return: class java.lang.String
+
+Method Name: setVal
+Parameter #1 Type: int
+Modifier: public
+Exceptions Thrown: class java.lang.Exception
+Return: void
+
+Method Name: getVal
+Modifier: public
+Return: int
+
+Method Name: printSomething
+Modifier: private
+Return: void
+
+
+==============================Fields==============================
+Field Name: val
+Type: int
+Modifiers: private
+Field Name: val2
+Type: double
+Modifiers: private
+Field Name: val3
+Type: boolean
+Modifiers: private
+
+Hello?
+DID I GET INSIDE HERE?????????????????????????
+
+Field: val
+==============================Start Recursing Call==============================
+==============================Starting Inspection==============================
+
+==============================Class Information==============================
+Class Name: ClassA
+==============================Superclasses==============================
+Superclass name: java.lang.Object ---> of Class: ClassA
+==============================Interfaces==============================
+Interface: interface java.io.Serializable
+Interface: interface java.lang.Runnable
+
+==============================Constructor Information==============================
+Constructor #1 Name: ClassA
+Modifiers: public
+
+Constructor #2 Name: ClassA
+Parameter #1 Name: int
+Modifiers: public
+
+
+==============================Methods==============================
+Method Name: run
+Modifier: public
+Return: void
+
+Method Name: toString
+Modifier: public
+Return: class java.lang.String
+
+Method Name: setVal
+Parameter #1 Type: int
+Modifier: public
+Exceptions Thrown: class java.lang.Exception
+Return: void
+
+Method Name: getVal
+Modifier: public
+Return: int
+
+Method Name: printSomething
+Modifier: private
+Return: void
+
+
+==============================Fields==============================
+Field Name: val
+Type: int
+Modifiers: private
+Field Name: val2
+Type: double
+Modifiers: private
+Field Name: val3
+Type: boolean
+Modifiers: private
+
+Hello?
+DID I GET INSIDE HERE?????????????????????????
+
+Field: val
+==============================Start Recursing Call==============================

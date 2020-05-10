@@ -1,0 +1,1096 @@
+======================================================
+Filename: script8.txt
+Running Test: Test String
+Recursive: true
+==============================Starting Inspection==============================
+
+==============================Class Information==============================
+Class Name: java.lang.String
+==============================Superclasses==============================
+Superclass name: java.lang.Object ---> of Class: java.lang.String
+==============================Interfaces==============================
+Interface: interface java.io.Serializable
+Interface: interface java.lang.Comparable
+Interface: interface java.lang.CharSequence
+
+==============================Constructor Information==============================
+Constructor #1 Name: java.lang.String
+Parameter #1 Name: [B
+Parameter #1 Name: int
+Parameter #1 Name: int
+Modifiers: public
+
+Constructor #2 Name: java.lang.String
+Parameter #1 Name: [B
+Parameter #1 Name: java.nio.charset.Charset
+Modifiers: public
+
+Constructor #3 Name: java.lang.String
+Parameter #1 Name: [B
+Parameter #1 Name: java.lang.String
+Modifiers: public
+
+Constructor #4 Name: java.lang.String
+Parameter #1 Name: [B
+Parameter #1 Name: int
+Parameter #1 Name: int
+Parameter #1 Name: java.nio.charset.Charset
+Modifiers: public
+
+Constructor #5 Name: java.lang.String
+Parameter #1 Name: [B
+Parameter #1 Name: int
+Parameter #1 Name: int
+Parameter #1 Name: java.lang.String
+Modifiers: public
+
+Constructor #6 Name: java.lang.String
+Parameter #1 Name: [C
+Parameter #1 Name: boolean
+Modifiers: 
+
+Constructor #7 Name: java.lang.String
+Parameter #1 Name: java.lang.StringBuilder
+Modifiers: public
+
+Constructor #8 Name: java.lang.String
+Parameter #1 Name: java.lang.StringBuffer
+Modifiers: public
+
+Constructor #9 Name: java.lang.String
+Parameter #1 Name: [B
+Modifiers: public
+
+Constructor #10 Name: java.lang.String
+Parameter #1 Name: [I
+Parameter #1 Name: int
+Parameter #1 Name: int
+Modifiers: public
+
+Constructor #11 Name: java.lang.String
+Modifiers: public
+
+Constructor #12 Name: java.lang.String
+Parameter #1 Name: [C
+Modifiers: public
+
+Constructor #13 Name: java.lang.String
+Parameter #1 Name: java.lang.String
+Modifiers: public
+
+Constructor #14 Name: java.lang.String
+Parameter #1 Name: [C
+Parameter #1 Name: int
+Parameter #1 Name: int
+Modifiers: public
+
+Constructor #15 Name: java.lang.String
+Parameter #1 Name: [B
+Parameter #1 Name: int
+Modifiers: public
+
+Constructor #16 Name: java.lang.String
+Parameter #1 Name: [B
+Parameter #1 Name: int
+Parameter #1 Name: int
+Parameter #1 Name: int
+Modifiers: public
+
+
+==============================Methods==============================
+Method Name: equals
+Parameter #1 Type: class java.lang.Object
+Modifier: public
+Return: boolean
+
+Method Name: toString
+Modifier: public
+Return: class java.lang.String
+
+Method Name: hashCode
+Modifier: public
+Return: int
+
+Method Name: compareTo
+Parameter #1 Type: class java.lang.String
+Modifier: public
+Return: int
+
+Method Name: compareTo
+Parameter #1 Type: class java.lang.Object
+Modifier: public volatile
+Return: int
+
+Method Name: indexOf
+Parameter #1 Type: class java.lang.String
+Parameter #2 Type: int
+Modifier: public
+Return: int
+
+Method Name: indexOf
+Parameter #1 Type: class java.lang.String
+Modifier: public
+Return: int
+
+Method Name: indexOf
+Parameter #1 Type: int
+Parameter #2 Type: int
+Modifier: public
+Return: int
+
+Method Name: indexOf
+Parameter #1 Type: int
+Modifier: public
+Return: int
+
+Method Name: indexOf
+Parameter #1 Type: class [C
+Parameter #2 Type: int
+Parameter #3 Type: int
+Parameter #4 Type: class [C
+Parameter #5 Type: int
+Parameter #6 Type: int
+Parameter #7 Type: int
+Modifier: static
+Return: int
+
+Method Name: indexOf
+Parameter #1 Type: class [C
+Parameter #2 Type: int
+Parameter #3 Type: int
+Parameter #4 Type: class java.lang.String
+Parameter #5 Type: int
+Modifier: static
+Return: int
+
+Method Name: valueOf
+Parameter #1 Type: int
+Modifier: public static
+Return: class java.lang.String
+
+Method Name: valueOf
+Parameter #1 Type: long
+Modifier: public static
+Return: class java.lang.String
+
+Method Name: valueOf
+Parameter #1 Type: float
+Modifier: public static
+Return: class java.lang.String
+
+Method Name: valueOf
+Parameter #1 Type: boolean
+Modifier: public static
+Return: class java.lang.String
+
+Method Name: valueOf
+Parameter #1 Type: class [C
+Modifier: public static
+Return: class java.lang.String
+
+Method Name: valueOf
+Parameter #1 Type: class [C
+Parameter #2 Type: int
+Parameter #3 Type: int
+Modifier: public static
+Return: class java.lang.String
+
+Method Name: valueOf
+Parameter #1 Type: class java.lang.Object
+Modifier: public static
+Return: class java.lang.String
+
+Method Name: valueOf
+Parameter #1 Type: char
+Modifier: public static
+Return: class java.lang.String
+
+Method Name: valueOf
+Parameter #1 Type: double
+Modifier: public static
+Return: class java.lang.String
+
+Method Name: charAt
+Parameter #1 Type: int
+Modifier: public
+Return: char
+
+Method Name: checkBounds
+Parameter #1 Type: class [B
+Parameter #2 Type: int
+Parameter #3 Type: int
+Modifier: private static
+Return: void
+
+Method Name: codePointAt
+Parameter #1 Type: int
+Modifier: public
+Return: int
+
+Method Name: codePointBefore
+Parameter #1 Type: int
+Modifier: public
+Return: int
+
+Method Name: codePointCount
+Parameter #1 Type: int
+Parameter #2 Type: int
+Modifier: public
+Return: int
+
+Method Name: compareToIgnoreCase
+Parameter #1 Type: class java.lang.String
+Modifier: public
+Return: int
+
+Method Name: concat
+Parameter #1 Type: class java.lang.String
+Modifier: public
+Return: class java.lang.String
+
+Method Name: contains
+Parameter #1 Type: interface java.lang.CharSequence
+Modifier: public
+Return: boolean
+
+Method Name: contentEquals
+Parameter #1 Type: interface java.lang.CharSequence
+Modifier: public
+Return: boolean
+
+Method Name: contentEquals
+Parameter #1 Type: class java.lang.StringBuffer
+Modifier: public
+Return: boolean
+
+Method Name: copyValueOf
+Parameter #1 Type: class [C
+Modifier: public static
+Return: class java.lang.String
+
+Method Name: copyValueOf
+Parameter #1 Type: class [C
+Parameter #2 Type: int
+Parameter #3 Type: int
+Modifier: public static
+Return: class java.lang.String
+
+Method Name: endsWith
+Parameter #1 Type: class java.lang.String
+Modifier: public
+Return: boolean
+
+Method Name: equalsIgnoreCase
+Parameter #1 Type: class java.lang.String
+Modifier: public
+Return: boolean
+
+Method Name: format
+Parameter #1 Type: class java.util.Locale
+Parameter #2 Type: class java.lang.String
+Parameter #3 Type: class [Ljava.lang.Object;
+Modifier: public static transient
+Return: class java.lang.String
+
+Method Name: format
+Parameter #1 Type: class java.lang.String
+Parameter #2 Type: class [Ljava.lang.Object;
+Modifier: public static transient
+Return: class java.lang.String
+
+Method Name: getBytes
+Parameter #1 Type: int
+Parameter #2 Type: int
+Parameter #3 Type: class [B
+Parameter #4 Type: int
+Modifier: public
+Return: void
+
+Method Name: getBytes
+Parameter #1 Type: class java.nio.charset.Charset
+Modifier: public
+Return: class [B
+
+Method Name: getBytes
+Parameter #1 Type: class java.lang.String
+Modifier: public
+Exceptions Thrown: class java.io.UnsupportedEncodingException
+Return: class [B
+
+Method Name: getBytes
+Modifier: public
+Return: class [B
+
+Method Name: getChars
+Parameter #1 Type: int
+Parameter #2 Type: int
+Parameter #3 Type: class [C
+Parameter #4 Type: int
+Modifier: public
+Return: void
+
+Method Name: getChars
+Parameter #1 Type: class [C
+Parameter #2 Type: int
+Modifier: 
+Return: void
+
+Method Name: indexOfSupplementary
+Parameter #1 Type: int
+Parameter #2 Type: int
+Modifier: private
+Return: int
+
+Method Name: intern
+Modifier: public native
+Return: class java.lang.String
+
+Method Name: isEmpty
+Modifier: public
+Return: boolean
+
+Method Name: join
+Parameter #1 Type: interface java.lang.CharSequence
+Parameter #2 Type: class [Ljava.lang.CharSequence;
+Modifier: public static transient
+Return: class java.lang.String
+
+Method Name: join
+Parameter #1 Type: interface java.lang.CharSequence
+Parameter #2 Type: interface java.lang.Iterable
+Modifier: public static
+Return: class java.lang.String
+
+Method Name: lastIndexOf
+Parameter #1 Type: int
+Modifier: public
+Return: int
+
+Method Name: lastIndexOf
+Parameter #1 Type: class java.lang.String
+Modifier: public
+Return: int
+
+Method Name: lastIndexOf
+Parameter #1 Type: class [C
+Parameter #2 Type: int
+Parameter #3 Type: int
+Parameter #4 Type: class java.lang.String
+Parameter #5 Type: int
+Modifier: static
+Return: int
+
+Method Name: lastIndexOf
+Parameter #1 Type: class java.lang.String
+Parameter #2 Type: int
+Modifier: public
+Return: int
+
+Method Name: lastIndexOf
+Parameter #1 Type: int
+Parameter #2 Type: int
+Modifier: public
+Return: int
+
+Method Name: lastIndexOf
+Parameter #1 Type: class [C
+Parameter #2 Type: int
+Parameter #3 Type: int
+Parameter #4 Type: class [C
+Parameter #5 Type: int
+Parameter #6 Type: int
+Parameter #7 Type: int
+Modifier: static
+Return: int
+
+Method Name: lastIndexOfSupplementary
+Parameter #1 Type: int
+Parameter #2 Type: int
+Modifier: private
+Return: int
+
+Method Name: length
+Modifier: public
+Return: int
+
+Method Name: matches
+Parameter #1 Type: class java.lang.String
+Modifier: public
+Return: boolean
+
+Method Name: nonSyncContentEquals
+Parameter #1 Type: class java.lang.AbstractStringBuilder
+Modifier: private
+Return: boolean
+
+Method Name: offsetByCodePoints
+Parameter #1 Type: int
+Parameter #2 Type: int
+Modifier: public
+Return: int
+
+Method Name: regionMatches
+Parameter #1 Type: int
+Parameter #2 Type: class java.lang.String
+Parameter #3 Type: int
+Parameter #4 Type: int
+Modifier: public
+Return: boolean
+
+Method Name: regionMatches
+Parameter #1 Type: boolean
+Parameter #2 Type: int
+Parameter #3 Type: class java.lang.String
+Parameter #4 Type: int
+Parameter #5 Type: int
+Modifier: public
+Return: boolean
+
+Method Name: replace
+Parameter #1 Type: char
+Parameter #2 Type: char
+Modifier: public
+Return: class java.lang.String
+
+Method Name: replace
+Parameter #1 Type: interface java.lang.CharSequence
+Parameter #2 Type: interface java.lang.CharSequence
+Modifier: public
+Return: class java.lang.String
+
+Method Name: replaceAll
+Parameter #1 Type: class java.lang.String
+Parameter #2 Type: class java.lang.String
+Modifier: public
+Return: class java.lang.String
+
+Method Name: replaceFirst
+Parameter #1 Type: class java.lang.String
+Parameter #2 Type: class java.lang.String
+Modifier: public
+Return: class java.lang.String
+
+Method Name: split
+Parameter #1 Type: class java.lang.String
+Modifier: public
+Return: class [Ljava.lang.String;
+
+Method Name: split
+Parameter #1 Type: class java.lang.String
+Parameter #2 Type: int
+Modifier: public
+Return: class [Ljava.lang.String;
+
+Method Name: startsWith
+Parameter #1 Type: class java.lang.String
+Parameter #2 Type: int
+Modifier: public
+Return: boolean
+
+Method Name: startsWith
+Parameter #1 Type: class java.lang.String
+Modifier: public
+Return: boolean
+
+Method Name: subSequence
+Parameter #1 Type: int
+Parameter #2 Type: int
+Modifier: public
+Return: interface java.lang.CharSequence
+
+Method Name: substring
+Parameter #1 Type: int
+Modifier: public
+Return: class java.lang.String
+
+Method Name: substring
+Parameter #1 Type: int
+Parameter #2 Type: int
+Modifier: public
+Return: class java.lang.String
+
+Method Name: toCharArray
+Modifier: public
+Return: class [C
+
+Method Name: toLowerCase
+Parameter #1 Type: class java.util.Locale
+Modifier: public
+Return: class java.lang.String
+
+Method Name: toLowerCase
+Modifier: public
+Return: class java.lang.String
+
+Method Name: toUpperCase
+Modifier: public
+Return: class java.lang.String
+
+Method Name: toUpperCase
+Parameter #1 Type: class java.util.Locale
+Modifier: public
+Return: class java.lang.String
+
+Method Name: trim
+Modifier: public
+Return: class java.lang.String
+
+
+==============================Fields==============================
+Array Length: 11
+Array Elements: 
+T, e, s, t,  , S, t, r, i, n, g, Type: class [C
+Modifiers: private final
+Field Name: hash
+Type: int
+Modifiers: private
+Field Name: serialVersionUID
+Type: long
+Modifiers: private static final
+Array Length: 0
+Array Elements: 
+Type: class [Ljava.io.ObjectStreamField;
+Modifiers: private static final
+Type: interface java.util.Comparator
+Modifiers: public static final
+
+Hello?
+DID I GET INSIDE HERE?????????????????????????
+
+Field: value
+==============================Start Recursing Call==============================
+==============================Starting Inspection==============================
+
+==============================Class Information==============================
+Class Name: java.lang.String
+==============================Superclasses==============================
+Superclass name: java.lang.Object ---> of Class: java.lang.String
+==============================Interfaces==============================
+Interface: interface java.io.Serializable
+Interface: interface java.lang.Comparable
+Interface: interface java.lang.CharSequence
+
+==============================Constructor Information==============================
+Constructor #1 Name: java.lang.String
+Parameter #1 Name: [B
+Parameter #1 Name: int
+Parameter #1 Name: int
+Modifiers: public
+
+Constructor #2 Name: java.lang.String
+Parameter #1 Name: [B
+Parameter #1 Name: java.nio.charset.Charset
+Modifiers: public
+
+Constructor #3 Name: java.lang.String
+Parameter #1 Name: [B
+Parameter #1 Name: java.lang.String
+Modifiers: public
+
+Constructor #4 Name: java.lang.String
+Parameter #1 Name: [B
+Parameter #1 Name: int
+Parameter #1 Name: int
+Parameter #1 Name: java.nio.charset.Charset
+Modifiers: public
+
+Constructor #5 Name: java.lang.String
+Parameter #1 Name: [B
+Parameter #1 Name: int
+Parameter #1 Name: int
+Parameter #1 Name: java.lang.String
+Modifiers: public
+
+Constructor #6 Name: java.lang.String
+Parameter #1 Name: [C
+Parameter #1 Name: boolean
+Modifiers: 
+
+Constructor #7 Name: java.lang.String
+Parameter #1 Name: java.lang.StringBuilder
+Modifiers: public
+
+Constructor #8 Name: java.lang.String
+Parameter #1 Name: java.lang.StringBuffer
+Modifiers: public
+
+Constructor #9 Name: java.lang.String
+Parameter #1 Name: [B
+Modifiers: public
+
+Constructor #10 Name: java.lang.String
+Parameter #1 Name: [I
+Parameter #1 Name: int
+Parameter #1 Name: int
+Modifiers: public
+
+Constructor #11 Name: java.lang.String
+Modifiers: public
+
+Constructor #12 Name: java.lang.String
+Parameter #1 Name: [C
+Modifiers: public
+
+Constructor #13 Name: java.lang.String
+Parameter #1 Name: java.lang.String
+Modifiers: public
+
+Constructor #14 Name: java.lang.String
+Parameter #1 Name: [C
+Parameter #1 Name: int
+Parameter #1 Name: int
+Modifiers: public
+
+Constructor #15 Name: java.lang.String
+Parameter #1 Name: [B
+Parameter #1 Name: int
+Modifiers: public
+
+Constructor #16 Name: java.lang.String
+Parameter #1 Name: [B
+Parameter #1 Name: int
+Parameter #1 Name: int
+Parameter #1 Name: int
+Modifiers: public
+
+
+==============================Methods==============================
+Method Name: equals
+Parameter #1 Type: class java.lang.Object
+Modifier: public
+Return: boolean
+
+Method Name: toString
+Modifier: public
+Return: class java.lang.String
+
+Method Name: hashCode
+Modifier: public
+Return: int
+
+Method Name: compareTo
+Parameter #1 Type: class java.lang.String
+Modifier: public
+Return: int
+
+Method Name: compareTo
+Parameter #1 Type: class java.lang.Object
+Modifier: public volatile
+Return: int
+
+Method Name: indexOf
+Parameter #1 Type: class java.lang.String
+Parameter #2 Type: int
+Modifier: public
+Return: int
+
+Method Name: indexOf
+Parameter #1 Type: class java.lang.String
+Modifier: public
+Return: int
+
+Method Name: indexOf
+Parameter #1 Type: int
+Parameter #2 Type: int
+Modifier: public
+Return: int
+
+Method Name: indexOf
+Parameter #1 Type: int
+Modifier: public
+Return: int
+
+Method Name: indexOf
+Parameter #1 Type: class [C
+Parameter #2 Type: int
+Parameter #3 Type: int
+Parameter #4 Type: class [C
+Parameter #5 Type: int
+Parameter #6 Type: int
+Parameter #7 Type: int
+Modifier: static
+Return: int
+
+Method Name: indexOf
+Parameter #1 Type: class [C
+Parameter #2 Type: int
+Parameter #3 Type: int
+Parameter #4 Type: class java.lang.String
+Parameter #5 Type: int
+Modifier: static
+Return: int
+
+Method Name: valueOf
+Parameter #1 Type: int
+Modifier: public static
+Return: class java.lang.String
+
+Method Name: valueOf
+Parameter #1 Type: long
+Modifier: public static
+Return: class java.lang.String
+
+Method Name: valueOf
+Parameter #1 Type: float
+Modifier: public static
+Return: class java.lang.String
+
+Method Name: valueOf
+Parameter #1 Type: boolean
+Modifier: public static
+Return: class java.lang.String
+
+Method Name: valueOf
+Parameter #1 Type: class [C
+Modifier: public static
+Return: class java.lang.String
+
+Method Name: valueOf
+Parameter #1 Type: class [C
+Parameter #2 Type: int
+Parameter #3 Type: int
+Modifier: public static
+Return: class java.lang.String
+
+Method Name: valueOf
+Parameter #1 Type: class java.lang.Object
+Modifier: public static
+Return: class java.lang.String
+
+Method Name: valueOf
+Parameter #1 Type: char
+Modifier: public static
+Return: class java.lang.String
+
+Method Name: valueOf
+Parameter #1 Type: double
+Modifier: public static
+Return: class java.lang.String
+
+Method Name: charAt
+Parameter #1 Type: int
+Modifier: public
+Return: char
+
+Method Name: checkBounds
+Parameter #1 Type: class [B
+Parameter #2 Type: int
+Parameter #3 Type: int
+Modifier: private static
+Return: void
+
+Method Name: codePointAt
+Parameter #1 Type: int
+Modifier: public
+Return: int
+
+Method Name: codePointBefore
+Parameter #1 Type: int
+Modifier: public
+Return: int
+
+Method Name: codePointCount
+Parameter #1 Type: int
+Parameter #2 Type: int
+Modifier: public
+Return: int
+
+Method Name: compareToIgnoreCase
+Parameter #1 Type: class java.lang.String
+Modifier: public
+Return: int
+
+Method Name: concat
+Parameter #1 Type: class java.lang.String
+Modifier: public
+Return: class java.lang.String
+
+Method Name: contains
+Parameter #1 Type: interface java.lang.CharSequence
+Modifier: public
+Return: boolean
+
+Method Name: contentEquals
+Parameter #1 Type: interface java.lang.CharSequence
+Modifier: public
+Return: boolean
+
+Method Name: contentEquals
+Parameter #1 Type: class java.lang.StringBuffer
+Modifier: public
+Return: boolean
+
+Method Name: copyValueOf
+Parameter #1 Type: class [C
+Modifier: public static
+Return: class java.lang.String
+
+Method Name: copyValueOf
+Parameter #1 Type: class [C
+Parameter #2 Type: int
+Parameter #3 Type: int
+Modifier: public static
+Return: class java.lang.String
+
+Method Name: endsWith
+Parameter #1 Type: class java.lang.String
+Modifier: public
+Return: boolean
+
+Method Name: equalsIgnoreCase
+Parameter #1 Type: class java.lang.String
+Modifier: public
+Return: boolean
+
+Method Name: format
+Parameter #1 Type: class java.util.Locale
+Parameter #2 Type: class java.lang.String
+Parameter #3 Type: class [Ljava.lang.Object;
+Modifier: public static transient
+Return: class java.lang.String
+
+Method Name: format
+Parameter #1 Type: class java.lang.String
+Parameter #2 Type: class [Ljava.lang.Object;
+Modifier: public static transient
+Return: class java.lang.String
+
+Method Name: getBytes
+Parameter #1 Type: int
+Parameter #2 Type: int
+Parameter #3 Type: class [B
+Parameter #4 Type: int
+Modifier: public
+Return: void
+
+Method Name: getBytes
+Parameter #1 Type: class java.nio.charset.Charset
+Modifier: public
+Return: class [B
+
+Method Name: getBytes
+Parameter #1 Type: class java.lang.String
+Modifier: public
+Exceptions Thrown: class java.io.UnsupportedEncodingException
+Return: class [B
+
+Method Name: getBytes
+Modifier: public
+Return: class [B
+
+Method Name: getChars
+Parameter #1 Type: int
+Parameter #2 Type: int
+Parameter #3 Type: class [C
+Parameter #4 Type: int
+Modifier: public
+Return: void
+
+Method Name: getChars
+Parameter #1 Type: class [C
+Parameter #2 Type: int
+Modifier: 
+Return: void
+
+Method Name: indexOfSupplementary
+Parameter #1 Type: int
+Parameter #2 Type: int
+Modifier: private
+Return: int
+
+Method Name: intern
+Modifier: public native
+Return: class java.lang.String
+
+Method Name: isEmpty
+Modifier: public
+Return: boolean
+
+Method Name: join
+Parameter #1 Type: interface java.lang.CharSequence
+Parameter #2 Type: class [Ljava.lang.CharSequence;
+Modifier: public static transient
+Return: class java.lang.String
+
+Method Name: join
+Parameter #1 Type: interface java.lang.CharSequence
+Parameter #2 Type: interface java.lang.Iterable
+Modifier: public static
+Return: class java.lang.String
+
+Method Name: lastIndexOf
+Parameter #1 Type: int
+Modifier: public
+Return: int
+
+Method Name: lastIndexOf
+Parameter #1 Type: class java.lang.String
+Modifier: public
+Return: int
+
+Method Name: lastIndexOf
+Parameter #1 Type: class [C
+Parameter #2 Type: int
+Parameter #3 Type: int
+Parameter #4 Type: class java.lang.String
+Parameter #5 Type: int
+Modifier: static
+Return: int
+
+Method Name: lastIndexOf
+Parameter #1 Type: class java.lang.String
+Parameter #2 Type: int
+Modifier: public
+Return: int
+
+Method Name: lastIndexOf
+Parameter #1 Type: int
+Parameter #2 Type: int
+Modifier: public
+Return: int
+
+Method Name: lastIndexOf
+Parameter #1 Type: class [C
+Parameter #2 Type: int
+Parameter #3 Type: int
+Parameter #4 Type: class [C
+Parameter #5 Type: int
+Parameter #6 Type: int
+Parameter #7 Type: int
+Modifier: static
+Return: int
+
+Method Name: lastIndexOfSupplementary
+Parameter #1 Type: int
+Parameter #2 Type: int
+Modifier: private
+Return: int
+
+Method Name: length
+Modifier: public
+Return: int
+
+Method Name: matches
+Parameter #1 Type: class java.lang.String
+Modifier: public
+Return: boolean
+
+Method Name: nonSyncContentEquals
+Parameter #1 Type: class java.lang.AbstractStringBuilder
+Modifier: private
+Return: boolean
+
+Method Name: offsetByCodePoints
+Parameter #1 Type: int
+Parameter #2 Type: int
+Modifier: public
+Return: int
+
+Method Name: regionMatches
+Parameter #1 Type: int
+Parameter #2 Type: class java.lang.String
+Parameter #3 Type: int
+Parameter #4 Type: int
+Modifier: public
+Return: boolean
+
+Method Name: regionMatches
+Parameter #1 Type: boolean
+Parameter #2 Type: int
+Parameter #3 Type: class java.lang.String
+Parameter #4 Type: int
+Parameter #5 Type: int
+Modifier: public
+Return: boolean
+
+Method Name: replace
+Parameter #1 Type: char
+Parameter #2 Type: char
+Modifier: public
+Return: class java.lang.String
+
+Method Name: replace
+Parameter #1 Type: interface java.lang.CharSequence
+Parameter #2 Type: interface java.lang.CharSequence
+Modifier: public
+Return: class java.lang.String
+
+Method Name: replaceAll
+Parameter #1 Type: class java.lang.String
+Parameter #2 Type: class java.lang.String
+Modifier: public
+Return: class java.lang.String
+
+Method Name: replaceFirst
+Parameter #1 Type: class java.lang.String
+Parameter #2 Type: class java.lang.String
+Modifier: public
+Return: class java.lang.String
+
+Method Name: split
+Parameter #1 Type: class java.lang.String
+Modifier: public
+Return: class [Ljava.lang.String;
+
+Method Name: split
+Parameter #1 Type: class java.lang.String
+Parameter #2 Type: int
+Modifier: public
+Return: class [Ljava.lang.String;
+
+Method Name: startsWith
+Parameter #1 Type: class java.lang.String
+Parameter #2 Type: int
+Modifier: public
+Return: boolean
+
+Method Name: startsWith
+Parameter #1 Type: class java.lang.String
+Modifier: public
+Return: boolean
+
+Method Name: subSequence
+Parameter #1 Type: int
+Parameter #2 Type: int
+Modifier: public
+Return: interface java.lang.CharSequence
+
+Method Name: substring
+Parameter #1 Type: int
+Modifier: public
+Return: class java.lang.String
+
+Method Name: substring
+Parameter #1 Type: int
+Parameter #2 Type: int
+Modifier: public
+Return: class java.lang.String
+
+Method Name: toCharArray
+Modifier: public
+Return: class [C
+
+Method Name: toLowerCase
+Parameter #1 Type: class java.util.Locale
+Modifier: public
+Return: class java.lang.String
+
+Method Name: toLowerCase
+Modifier: public
+Return: class java.lang.String
+
+Method Name: toUpperCase
+Modifier: public
+Return: class java.lang.String
+
+Method Name: toUpperCase
+Parameter #1 Type: class java.util.Locale
+Modifier: public
+Return: class java.lang.String
+
+Method Name: trim
+Modifier: public
+Return: class java.lang.String
+
+
+==============================Fields==============================

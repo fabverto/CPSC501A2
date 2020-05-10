@@ -1,0 +1,37 @@
+======================================================
+Filename: script7.txt
+Running Test: [[LClassB;@75b84c92
+Recursive: true
+==============================Starting Inspection==============================
+
+==============================Class Information==============================
+Class Name: [[LClassB;
+==============================Superclasses==============================
+Superclass name: java.lang.Object ---> of Class: [[LClassB;
+==============================Interfaces==============================
+Interface: interface java.lang.Cloneable
+Interface: interface java.io.Serializable
+
+==============================Constructor Information==============================
+
+==============================Methods==============================
+
+==============================Fields==============================
+
+Hello?
+==============================Entering Fields==============================
+Hello?
+Array [LClassB;
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+======================================================

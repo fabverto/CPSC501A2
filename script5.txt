@@ -1,0 +1,84 @@
+======================================================
+Filename: script5.txt
+Running Test: ClassD
+Recursive: true
+==============================Starting Inspection==============================
+
+==============================Class Information==============================
+Class Name: ClassD
+==============================Superclasses==============================
+Superclass name: java.lang.Object ---> of Class: ClassD
+==============================Interfaces==============================
+
+==============================Constructor Information==============================
+Constructor #1 Name: ClassD
+Modifiers: public
+
+Constructor #2 Name: ClassD
+Parameter #1 Name: int
+Modifiers: public
+
+
+==============================Methods==============================
+Method Name: toString
+Modifier: public
+Return: class java.lang.String
+
+Method Name: getVal3
+Modifier: public
+Return: int
+
+
+==============================Fields==============================
+Type: class ClassA
+Modifiers: private
+Type: class ClassA
+Modifiers: private static
+Field Name: val3
+Type: int
+Modifiers: private
+Array Length: 10
+Array Elements: 
+null, null, null, null, null, null, null, null, null, null, Type: class [LClassA;
+Modifiers: private
+
+Hello?
+DID I GET INSIDE HERE?????????????????????????
+
+Field: val
+==============================Start Recursing Call==============================
+==============================Starting Inspection==============================
+
+==============================Class Information==============================
+Class Name: ClassD
+==============================Superclasses==============================
+Superclass name: java.lang.Object ---> of Class: ClassD
+==============================Interfaces==============================
+
+==============================Constructor Information==============================
+Constructor #1 Name: ClassD
+Modifiers: public
+
+Constructor #2 Name: ClassD
+Parameter #1 Name: int
+Modifiers: public
+
+
+==============================Methods==============================
+Method Name: toString
+Modifier: public
+Return: class java.lang.String
+
+Method Name: getVal3
+Modifier: public
+Return: int
+
+
+==============================Fields==============================
+Type: class ClassA
+Modifiers: private
+Type: class ClassA
+Modifiers: private static
+Field Name: val3
+Type: int
+Modifiers: private
